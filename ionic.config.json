@@ -1,0 +1,8 @@
+{
+  "name": "guif",
+  "app_id": "70aec8a0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
